@@ -1,0 +1,41 @@
+{
+  "app": {
+    "name": "نظام نقاط البيع للمطاعم"
+  },
+  "welcome": "مرحباً",
+  "pos": {
+    "title": "نظام نقاط البيع",
+    "choose_order_type": "اختر نوع الطلب",
+    "dine_in": "للتناول هنا",
+    "take_away": "للان带走",
+    "delivery": "توصيل",
+    "select_table": "اختر طاولة",
+    "all": "الكل",
+    "cart": "السلة",
+    "validate_order": "تأكيد الطلب",
+    "total": "المجموع"
+  },
+  "table": {
+    "available": "متاحة",
+    "reserved": "محجوزة",
+    "occupied": "مشغولة"
+  },
+  "message": {
+    "success": "نجاح",
+    "error": "خطأ",
+    "empty_cart": "سلتك فارغة",
+    "order_validated": "تم تأكيد الطلب بنجاح!",
+    "check_order_info": "يرجى التحقق من معلومات الطلب"
+  },
+  "customer": {
+    "name": "اسم العميل",
+    "phone": "الهاتف",
+    "address": "العنوان",
+    "name_placeholder": "أدخل اسم العميل",
+    "phone_placeholder": "أدخل رقم الهاتف",
+    "address_placeholder": "أدخل عنوان التسليم"
+  },
+  "surplace": "في المكان",
+  "emporter": "للبلاصة",
+  "livraison": "توصيل"
+}

@@ -1,0 +1,15 @@
+{
+  "appName": "نظام سويا بوكس للكاشير",
+  "surplace": "في المكان",
+  "emporter": "ل带走",
+  "livraison": "توصيل",
+  "validateOrder": "تأكيد الطلب",
+  "addToCart": "إضافة إلى السلة",
+  "removeFromCart": "إزالة من السلة",
+  "cartEmpty": "سلتك فارغة",
+  "orderSubmitted": "تم إرسال الطلب بنجاح!",
+  "errorLoadingData": "خطأ في تحميل البيانات",
+  "customerName": "اسم العميل",
+  "customerPhone": "هاتف العميل",
+  "customerAddress": "عنوان العميل"
+}

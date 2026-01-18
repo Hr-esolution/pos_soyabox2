@@ -1,0 +1,15 @@
+{
+  "appName": "SoYaBox POS",
+  "surplace": "Sur place",
+  "emporter": "À emporter",
+  "livraison": "Livraison",
+  "validateOrder": "Valider la commande",
+  "addToCart": "Ajouter au panier",
+  "removeFromCart": "Retirer du panier",
+  "cartEmpty": "Votre panier est vide",
+  "orderSubmitted": "Commande soumise avec succès !",
+  "errorLoadingData": "Erreur lors du chargement des données",
+  "customerName": "Nom du client",
+  "customerPhone": "Téléphone du client",
+  "customerAddress": "Adresse du client"
+}

@@ -1,0 +1,41 @@
+{
+  "app": {
+    "name": "Restaurant POS System"
+  },
+  "welcome": "Welcome",
+  "pos": {
+    "title": "POS System",
+    "choose_order_type": "Choose order type",
+    "dine_in": "Dine In",
+    "take_away": "Take Away",
+    "delivery": "Delivery",
+    "select_table": "Select a table",
+    "all": "All",
+    "cart": "Cart",
+    "validate_order": "Validate order",
+    "total": "Total"
+  },
+  "table": {
+    "available": "Available",
+    "reserved": "Reserved",
+    "occupied": "Occupied"
+  },
+  "message": {
+    "success": "Success",
+    "error": "Error",
+    "empty_cart": "Your cart is empty",
+    "order_validated": "Order validated successfully!",
+    "check_order_info": "Please check order information"
+  },
+  "customer": {
+    "name": "Customer name",
+    "phone": "Phone",
+    "address": "Address",
+    "name_placeholder": "Enter customer name",
+    "phone_placeholder": "Enter phone number",
+    "address_placeholder": "Enter delivery address"
+  },
+  "surplace": "On-site",
+  "emporter": "Take away",
+  "livraison": "Delivery"
+}

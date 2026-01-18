@@ -1,0 +1,41 @@
+{
+  "app": {
+    "name": "Système de Caisse Restaurant"
+  },
+  "welcome": "Bienvenue",
+  "pos": {
+    "title": "Système de Caisse",
+    "choose_order_type": "Choisissez le type de commande",
+    "dine_in": "Sur Place",
+    "take_away": "À Emporter",
+    "delivery": "Livraison",
+    "select_table": "Sélectionnez une table",
+    "all": "Tous",
+    "cart": "Panier",
+    "validate_order": "Valider la commande",
+    "total": "Total"
+  },
+  "table": {
+    "available": "Disponible",
+    "reserved": "Réservée",
+    "occupied": "Occupée"
+  },
+  "message": {
+    "success": "Succès",
+    "error": "Erreur",
+    "empty_cart": "Votre panier est vide",
+    "order_validated": "Commande validée avec succès !",
+    "check_order_info": "Veuillez vérifier les informations de la commande"
+  },
+  "customer": {
+    "name": "Nom du client",
+    "phone": "Téléphone",
+    "address": "Adresse",
+    "name_placeholder": "Entrez le nom du client",
+    "phone_placeholder": "Entrez le téléphone",
+    "address_placeholder": "Entrez l'adresse de livraison"
+  },
+  "surplace": "Sur place",
+  "emporter": "À emporter",
+  "livraison": "Livraison"
+}
