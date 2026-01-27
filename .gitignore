@@ -1,1 +1,80 @@
-Nothing needs to be added to .gitignore since only a markdown file (ANALYSIS_FILE.md) was added, which is a source/config file and not a build artifact, dependency, or temporary file.
+```
+# Flutter/Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugin-dependencies
+.packages
+**/ios/.generated/
+**/android/.generated/
+**/lib/**/.generated/
+**/windows/Flutter/ephemeral/
+**/macos/Flutter/ephemeral/
+
+# Build
+build/
+**/build/
+
+# Dependencies
+.pub-cache/
+.pub/
+dependencies/
+
+# Environment variables
+.env
+.env.local
+.env.*
+
+# Logs
+*.log
+**/logs
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+.directory
+.Trashes
+*.swp
+*.swo
+
+# IDE specific
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+.settings/
+nbproject/
+*.orig
+
+# Temporary files
+*.tmp
+*.temp
+*~
+.#*
+%*%
+._*
+
+# Coverage
+coverage/
+htmlcov/
+.coverage
+
+# Distribution / packaging
+*.tar.gz
+*.zip
+*.dmg
+*.pkg
+*.msi
+
+# Compiled Binary files
+*.class
+*.o
+*.a
+*.obj
+*.so
+*.dll
+*.exe
+*.out
+```
