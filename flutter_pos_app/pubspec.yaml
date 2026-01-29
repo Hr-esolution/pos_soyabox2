@@ -15,8 +15,8 @@ dependencies:
   # State management and navigation
   get: ^4.6.6
 
-  # Database
-  sqflite: ^2.3.0
+  # Database - Desktop compatible
+  sqflite_common_ffi: ^2.3.0
   path: ^1.8.3
 
   # HTTP client
