@@ -1,34 +1,32 @@
 ```
 # Build artifacts
 /build/
-/dist/
-*.apk
-*.aab
-*.ipa
-*.app
+/bin/
+/analysis/
 
 # Dependencies
-pubspec.lock
-.dart_tool/
-.packages
+/.dart_tool/
+/pubspec.lock
 
-# Logs
+# Logs and temp files
 *.log
-**/logs
+*.tmp
 
-# Environment variables
+# Environment
 .env
 .env.local
-.env.*
-!.env.example
+*.env.*
 
-# IDE specific
+# Editors
 .vscode/
 .idea/
 *.swp
 *.swo
 
-# OS generated
+# OS generated files
 .DS_Store
 Thumbs.db
+
+# Coverage
+/coverage/
 ```
