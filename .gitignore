@@ -1,80 +1,34 @@
 ```
-# Flutter/Dart
-.dart_tool/
-.flutter-plugins
-.flutter-plugin-dependencies
-.packages
-**/ios/.generated/
-**/android/.generated/
-**/lib/**/.generated/
-**/windows/Flutter/ephemeral/
-**/macos/Flutter/ephemeral/
-
-# Build
-build/
-**/build/
+# Build artifacts
+/build/
+/dist/
+*.apk
+*.aab
+*.ipa
+*.app
 
 # Dependencies
-.pub-cache/
-.pub/
-dependencies/
-
-# Environment variables
-.env
-.env.local
-.env.*
+pubspec.lock
+.dart_tool/
+.packages
 
 # Logs
 *.log
 **/logs
 
-# OS generated files
-.DS_Store
-Thumbs.db
-ehthumbs.db
-Icon?
-.directory
-.Trashes
-*.swp
-*.swo
+# Environment variables
+.env
+.env.local
+.env.*
+!.env.example
 
 # IDE specific
 .vscode/
 .idea/
-*.iml
-*.ipr
-*.iws
-.settings/
-nbproject/
-*.orig
+*.swp
+*.swo
 
-# Temporary files
-*.tmp
-*.temp
-*~
-.#*
-%*%
-._*
-
-# Coverage
-coverage/
-htmlcov/
-.coverage
-
-# Distribution / packaging
-*.tar.gz
-*.zip
-*.dmg
-*.pkg
-*.msi
-
-# Compiled Binary files
-*.class
-*.o
-*.a
-*.obj
-*.so
-*.dll
-*.exe
-*.out
+# OS generated
+.DS_Store
+Thumbs.db
 ```
